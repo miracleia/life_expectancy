@@ -27,11 +27,3 @@ This version of the dataset was obtained from a [Kaggle repository](https://www.
 While all of these countries have GDPs per capita no higher than 60,000USD, their percentage expenditure on health per GDP is surprisingly moderate as well. However they have low alcohol consumption, measles occurrences, as well as high overall years of schooling and rates of immunization against diphtheria and polio.
 
 > There is a sharp difference in the correlation between life expectancy and Body Mass Index(BMI) for developing and developed countries. BMI and life expectancy have a strong positive correlation for developing countries, but the general expectancy remains lower than the developed countries which, on the other hand, have a weak negative correlation with BMI. The difference between life expectancy for both groups is most obvious for countries with low BMI, while those with higher BMI are more similar.
-
-
-## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
-
-1. Interaction of infant death with life expectancy
-2. Difference between Life Expectancy-BMI correlation for developing and developed countries.
